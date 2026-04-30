@@ -12,7 +12,7 @@ Seagrass monitoring should help us understand more than whether a meadow is chan
 
 This toolkit helps local NGOs, community groups, researchers, coastal managers and funders build practical monitoring plans that connect ecological condition with people, governance, pressures and outcomes.
 
-It is designed for real conservation settings: a community group restoring eelgrass in Scotland, a local NGO working with fishers in Tanzania or Indonesia, a coastal manager reducing anchor damage, or a research team trying to understand why a meadow is declining.
+It is designed for real conservation settings: a community group restoring seagrass, a local NGO working with small-scale fishers, a coastal manager reducing anchor damage, or a research team trying to understand why a meadow is declining.
 
 <div class="key-rule">
 <strong>The core rule:</strong> a monitoring plan is only truly social-ecological if it includes at least one meaningful indicator from all seven parts of the system: settings, resource system, resource units, actors, governance system, interactions and outcomes.
@@ -24,7 +24,7 @@ It is designed for real conservation settings: a community group restoring eelgr
 - Choose indicators that match your conservation issue.
 - Avoid monitoring only the easiest or most familiar things.
 - Link ecological change with human use, governance and behaviour.
-- Interpret monitoring results in ways that support action.
+- Interpret monitoring results in ways that support conservation action.
 
 :::{.callout-note title="Scientific interpretation"}
 Ecological monitoring remains essential, especially measures of seagrass extent, percentage cover and species composition. The scientific shift made here is not to replace ecological monitoring, but to embed it within the wider system of drivers, actors, governance and outcomes that determine whether conservation succeeds.
@@ -41,11 +41,3 @@ Use the pages above to move from the basic idea through to practical worked exam
 5. **Methods**
 6. **Worked examples**
 7. **Interpret results**
-
-## Place for Figure 1
-
-The figure below is taken from the academic framework paper. Keep it here on the homepage or move it to the framework page, depending on how visual you want the landing page to be.
-
-![Minimum viable social-ecological monitoring framework for seagrass conservation. The figure shows that useful seagrass monitoring needs to connect seven parts of the system: the wider setting, the seagrass meadow, the species and benefits it supports, the people connected to it, the governance system, the interactions taking place, and the outcomes for nature and people.](assets/img/figure-1.png){fig-alt="Minimum viable social-ecological monitoring framework for seagrass conservation showing seven social-ecological domains." width="100%"}
-
-<p class="caption"><strong>Figure 1.</strong> A practical way to think about seagrass monitoring as a whole system. Rather than measuring only the meadow, the framework asks users to also consider people, pressures, rules, behaviours and outcomes. The aim is to move from describing seagrass condition to understanding what is shaping it.</p>
