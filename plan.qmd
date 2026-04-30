@@ -2,7 +2,7 @@
 title: "Build a monitoring plan"
 ---
 
-## Build a monitoring plan
+## How to build a social-ecological monitoring plan
 
 Start with the conservation issue, not with a long list of indicators.
 
