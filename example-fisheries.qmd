@@ -2,7 +2,7 @@
 title: "Worked example: tropical small-scale fisheries"
 ---
 
-## Example: a local NGO monitoring seagrass fisheries in Tanzania or Indonesia
+## Example: a local NGO monitoring seagrass-associated fisheries
 
 A local NGO works with coastal communities where people fish and glean in seagrass meadows. The meadow supports food, income and daily livelihoods. At the same time, people are concerned about declining catches, sedimentation and coastal development.
 
@@ -16,7 +16,7 @@ This is important, but too narrow.
 
 > Who depends on the meadow, how is it used, what pressures are changing, and are conservation actions improving both ecological condition and people’s wellbeing?
 
-::{.callout-note title="Scientific interpretation"}
+:::{.callout-note title="Scientific interpretation"}
 Access management changes the relationship between people and a common-pool resource. Monitoring therefore needs to track ecological condition, use, dependence, governance, compliance and social outcomes together.
 :::
 
@@ -50,6 +50,6 @@ There may be a mismatch between the intervention and the actual pressure pathway
 
 Participation and legitimacy may be helping management work.
 
-::{.callout-tip title="Key message"}
+:::{.callout-tip title="Key message"}
 In seagrass fisheries, ecological condition, food security, livelihoods and governance are connected. Monitoring should show not only whether the meadow is changing, but whether management is fair, legitimate and effective.
 :::
