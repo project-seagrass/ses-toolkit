@@ -148,7 +148,7 @@ h1, h2, h3 {
 .hero h1 {
   color: var(--ps-dark-teal);
   font-weight: 850;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   line-height: 1.08;
   margin-top: 0;
   margin-bottom: 0.75rem;
@@ -156,7 +156,7 @@ h1, h2, h3 {
 
 /* Homepage subtitle */
 .hero-subtitle {
-  font-size: clamp(1.05rem, 1.5vw, 1.25rem);
+  font-size: 1.05rem;
   color: #345c5a;
   max-width: 850px;
   margin-bottom: 1.25rem;
