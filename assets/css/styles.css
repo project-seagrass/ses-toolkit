@@ -55,7 +55,7 @@ h4 {
 
 .navbar {
   background-color: #ffffff;
-  border-bottom: 3px solid var(--ps-teal);
+  border-bottom: none;
   min-height: 74px;
   padding-top: 0.45rem;
   padding-bottom: 0.45rem;
