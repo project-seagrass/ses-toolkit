@@ -4,18 +4,15 @@ project:
 
 website:
   title: "Seagrass Social-Ecological Monitoring Toolkit"
-  site-url: "https://projectseagrass.github.io/seagrass-ses-monitoring-toolkit/"
 
   navbar:
     logo: assets/img/project-seagrass-logo.svg
     logo-alt: "Project Seagrass logo"
-    title: false
-    left:
-      - text: "Seagrass Social-Ecological Monitoring Toolkit"
-        href: index.qmd
+    title: "Seagrass Social-Ecological Monitoring Toolkit"
+    left: []
 
   sidebar:
-    style: "floating"
+    style: "docked"
     search: true
     contents:
       - text: "Home"
@@ -53,4 +50,4 @@ format:
     css: assets/css/styles.css
     toc: true
     toc-location: right
-    page-layout: article
+    page-layout: full
