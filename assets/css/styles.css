@@ -49,9 +49,15 @@ body {
   padding-bottom: .35rem;
 }
 
+/* Control Project Seagrass logo size in top navbar */
 .navbar-brand img {
-  max-height: 54px;
+  max-height: 80px;
   width: auto;
+}
+
+/* Prevent navbar from becoming too tall */
+.navbar {
+  min-height: 64px;
 }
 
 .navbar-title {
