@@ -16,8 +16,8 @@ This is important, but too narrow.
 
 > Are boating behaviours changing, are rules clear and legitimate, and is physical disturbance being reduced without simply moving the problem elsewhere?
 
-::{.callout-note title="Scientific interpretation"}
-Many pressure-reduction interventions operate through behaviour change. Ecological indicators show the outcome, but actor, governance and interaction indicators explain whether the intervention pathway is working.
+:::{.callout-note title="Scientific interpretation"}
+Most pressure-reduction interventions operate through behaviour change. Ecological indicators show the outcome, but actor, governance and interaction indicators explain whether the intervention pathway is working.
 :::
 
 ## Example monitoring plan
@@ -50,6 +50,6 @@ The issue may be clarity of guidance rather than lack of concern.
 
 Governance capacity may be limiting success.
 
-::{.callout-tip title="Key message"}
+:::{.callout-tip title="Key message"}
 Boating management is not only an ecological issue. It is a behaviour and governance issue. Monitoring must connect physical damage with boater behaviour, rule clarity, enforcement and legitimacy.
 :::
