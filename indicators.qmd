@@ -2,9 +2,9 @@
 title: "Indicator library"
 ---
 
-## Indicator library in plain English
+## Indicator library in simple terms
 
-This page translates the variable library into practical language. Users do not need to measure all indicators. Select indicators that match the site, conservation issue, capacity and decision needs.
+This page showcases the variable library in practical language. Users do not need to measure all indicators. Select indicators that match the site, conservation issue, capacity and decision needs.
 
 :::{.callout-note title="Scientific interpretation"}
 The indicator library is designed to support context-specific construction of monitoring systems. It protects against ecology-only monitoring by requiring representation across all domains, but it avoids a rigid universal indicator list.
