@@ -18,13 +18,13 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Why SES monitoring?"
-        href: why-ses.qmd
+        href: about.qmd
       - text: "The seven parts"
         href: framework.qmd
       - text: "Building a monitoring plan"
-        href: monitoring-plan.qmd
+        href: plan.qmd
       - text: "Indicator library"
-        href: indicator-library.qmd
+        href: indicators.qmd
       - text: "Methods"
         href: methods.qmd
       - section: "Worked examples"
@@ -42,7 +42,7 @@ website:
       - text: "Evidence base"
         href: evidence.qmd
       - text: "References"
-        href: references.qmd
+        href: references-full.qmd
 
 format:
   html:
