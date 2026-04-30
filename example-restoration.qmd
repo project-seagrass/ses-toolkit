@@ -2,9 +2,9 @@
 title: "Worked example: temperate restoration"
 ---
 
-## Example: a community group restoring seagrass in Scotland
+## Example: a community group restoring seagrass
 
-A coastal community group is working with researchers and local partners to restore a degraded eelgrass meadow. Volunteers help collect seeds, support planting and record field observations. The group already monitors planted area, seed deployment and early survival, but wants to know whether restoration is creating a functioning meadow and whether local support is strong enough to sustain recovery.
+A coastal community group is working with researchers and local partners to restore a degraded seagrass meadow. Volunteers help collect seeds, support planting and record field observations. The group already monitors planted area, seed deployment and early survival, but wants to know whether restoration is creating a functioning meadow and whether local support is strong enough to sustain recovery.
 
 ## The narrow question
 
@@ -16,7 +16,7 @@ This is important, but too narrow.
 
 > Is the restored meadow becoming functional, are pressures being reduced, and is there enough local stewardship and governance support for recovery to last?
 
-::{.callout-note title="Scientific interpretation"}
+:::{.callout-note title="Scientific interpretation"}
 Restoration success is not just a planting outcome. Ecological establishment, functional recovery, pressure reduction, governance support and stewardship are all part of the pathway from intervention to durable conservation.
 :::
 
@@ -50,6 +50,6 @@ The project may need more long-term engagement, feedback or shared ownership.
 
 Both ecological and social conditions may be improving together.
 
-::{.callout-tip title="Key message"}
+:::{.callout-tip title="Key message"}
 Restoration monitoring should not stop at survival. It should ask whether the meadow is recovering function and whether the social and governance conditions needed for long-term persistence are in place.
 :::
