@@ -1,0 +1,55 @@
+---
+title: "Worked example: temperate restoration"
+---
+
+## Example: a community group restoring seagrass in Scotland
+
+A coastal community group is working with researchers and local partners to restore a degraded eelgrass meadow. Volunteers help collect seeds, support planting and record field observations. The group already monitors planted area, seed deployment and early survival, but wants to know whether restoration is creating a functioning meadow and whether local support is strong enough to sustain recovery.
+
+## The narrow question
+
+> Did the planted seagrass survive?
+
+This is important, but too narrow.
+
+## The better question
+
+> Is the restored meadow becoming functional, are pressures being reduced, and is there enough local stewardship and governance support for recovery to last?
+
+::{.callout-note title="Scientific interpretation"}
+Restoration success is not just a planting outcome. Ecological establishment, functional recovery, pressure reduction, governance support and stewardship are all part of the pathway from intervention to durable conservation.
+:::
+
+## Example monitoring plan
+
+| Domain | What to monitor | Example indicator | Why it matters |
+|---|---|---|---|
+| Settings | Wider environmental pressures | Water clarity, sedimentation risk, runoff sources | Restoration may fail if water quality or sediment stress remains high |
+| Resource system | Meadow condition | Seagrass cover, shoot density, extent | Tracks establishment and structural development |
+| Resource units | Biodiversity and function | Fish or invertebrate abundance/diversity | Shows whether the meadow is supporting ecological life |
+| Actors | Stewardship | Volunteer participation, local awareness, perceived value | Restoration often depends on long-term local support |
+| Governance system | Pressure management | Permissions, anchoring restrictions, water quality measures | Planting alone may fail if pressures are not managed |
+| Interactions | Disturbance and restoration effort | Anchor scars, trampling, planting effort, volunteer hours | Shows whether actions and pressures are changing |
+| Outcomes | Recovery and social support | Biodiversity change, perceived success, continued participation | Shows whether restoration is becoming ecologically and socially durable |
+
+## What the results might show
+
+### Seagrass survival is high, but biodiversity remains low
+
+The meadow may be establishing but not yet functioning as habitat. More time may be needed, or habitat structure may still be too sparse.
+
+### Seagrass cover increases, but anchor scars continue
+
+Restoration is happening in a system where physical pressure remains unresolved.
+
+### Volunteer participation declines after planting
+
+The project may need more long-term engagement, feedback or shared ownership.
+
+### The meadow expands and local support grows
+
+Both ecological and social conditions may be improving together.
+
+::{.callout-tip title="Key message"}
+Restoration monitoring should not stop at survival. It should ask whether the meadow is recovering function and whether the social and governance conditions needed for long-term persistence are in place.
+:::

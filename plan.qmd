@@ -1,0 +1,82 @@
+---
+title: "Build a monitoring plan"
+---
+
+## Build a monitoring plan
+
+Start with the conservation issue, not with a long list of indicators.
+
+Ask:
+
+- What is the main conservation issue?
+- What action is being taken?
+- What change do we expect to see?
+- Who might be affected?
+- What decisions will the monitoring inform?
+
+## Step 1. Define the issue
+
+Examples include:
+
+- seagrass restoration
+- meadow decline near coastal development
+- small-scale fisheries management
+- gleaning pressure
+- boating and anchoring damage
+- water quality improvement
+- community stewardship
+- protected area effectiveness
+- natural recovery after pressure reduction
+
+## Step 2. Identify the main pathway of change
+
+| Conservation issue | Main pathway of change |
+|---|---|
+| Restoration | Re-establish meadow structure and function |
+| Fisheries management | Change access, effort, catch or compliance |
+| Boating management | Change anchoring behaviour and reduce physical damage |
+| Coastal development pressure | Reduce or manage runoff, sedimentation or disturbance |
+| Community stewardship | Increase local care, monitoring and action |
+| Water quality intervention | Improve light, reduce nutrients and support recovery |
+
+:::{.callout-note title="Scientific interpretation"}
+Similar ecological indicators can mean different things in different interventions. A change in seagrass cover after restoration, after fishing restrictions, and after anchoring management may reflect different mechanisms. Monitoring should therefore be aligned with the intervention pathway, not applied uniformly across all contexts.
+:::
+
+## Step 3. Select indicators across all seven domains
+
+A strong indicator should be:
+
+- relevant to the conservation issue
+- realistic to measure
+- understandable to local partners
+- useful for decision-making
+- possible to repeat over time
+- respectful of local knowledge and ethics
+
+## Step 4. Match methods to capacity
+
+A community group may use photoquadrats, local observations, interviews and simple mapping.
+
+A local NGO may use household surveys, participatory mapping, catch monitoring and seagrass transects.
+
+A research team may add drones, BRUVS, remote sensing, eDNA, advanced statistical modelling or detailed governance analysis.
+
+All can follow the same seven-part logic.
+
+## Step 5. Interpret indicators together
+
+Do not read each indicator alone. The value of social-ecological monitoring comes from understanding links.
+
+For example:
+
+- Seagrass cover is declining while sedimentation risk is increasing.
+- Fish abundance is improving, but household food security is not.
+- Rules exist, but users do not know about them.
+- Restoration is expanding, but anchor scars remain common.
+- Boater awareness is high, but eco-mooring uptake is low.
+- Community support is strong, but government capacity is weak.
+
+:::{.callout-tip title="Practical takeaway"}
+A monitoring plan is useful when it helps tell a conservation story clearly enough to guide the next decision.
+:::

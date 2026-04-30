@@ -1,0 +1,52 @@
+---
+title: "Why social-ecological monitoring?"
+---
+
+## Why monitor seagrass as a social-ecological system?
+
+Seagrass meadows grow in places where people fish, glean, anchor boats, restore habitats, manage coastlines, build infrastructure and make decisions. Their future is shaped by ecological conditions and human systems together.
+
+Ecological monitoring can tell us whether seagrass is present, how much cover there is, and whether a meadow is expanding or declining. These are vital measurements.
+
+But ecological monitoring alone may not tell us:
+
+- why the meadow is changing
+- which pressures are most important
+- who depends on the meadow
+- whether rules are trusted or enforced
+- whether people are changing behaviour
+- whether conservation is fair
+- whether benefits and costs are shared evenly
+
+:::{.callout-note title="Scientific interpretation"}
+The central scientific problem is that conventional monitoring can be descriptive rather than diagnostic. It may show that seagrass cover has changed, but not whether the change was caused by water quality, sedimentation, boating, fishing pressure, governance failure, climate stress or some combination of these.
+:::
+
+## From description to diagnosis
+
+Description asks:
+
+> What is happening to the meadow?
+
+Diagnosis asks:
+
+> What is happening to the meadow, why is it happening, who is affected, and what needs to change?
+
+That is the purpose of social-ecological monitoring.
+
+## Why this matters
+
+Seagrass conservation often involves decisions that affect people. Restoration may require local stewardship. Fisheries management may change access to food and income. Boating restrictions may require behaviour change. Coastal development decisions may involve several agencies with overlapping responsibilities.
+
+A social-ecological approach helps users understand whether conservation is:
+
+- ecologically effective
+- socially supported
+- fairly designed
+- practically enforceable
+- able to adapt over time
+- likely to last
+
+:::{.callout-tip title="Practical takeaway"}
+If your monitoring cannot help explain why change is happening, who is affected, and what action is needed, it is probably not yet giving you enough information to guide conservation.
+:::

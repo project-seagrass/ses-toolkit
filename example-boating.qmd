@@ -1,0 +1,55 @@
+---
+title: "Worked example: boating and anchoring"
+---
+
+## Example: reducing anchor damage in a busy coastal bay
+
+A coastal bay has popular boating areas and seagrass meadows. Anchor scars and propeller damage are visible. Managers are considering eco-moorings, voluntary no-anchor zones, signs and stronger enforcement.
+
+## The narrow question
+
+> Are there fewer anchor scars?
+
+This is important, but too narrow.
+
+## The better question
+
+> Are boating behaviours changing, are rules clear and legitimate, and is physical disturbance being reduced without simply moving the problem elsewhere?
+
+::{.callout-note title="Scientific interpretation"}
+Many pressure-reduction interventions operate through behaviour change. Ecological indicators show the outcome, but actor, governance and interaction indicators explain whether the intervention pathway is working.
+:::
+
+## Example monitoring plan
+
+| Domain | What to monitor | Example indicator | Why it matters |
+|---|---|---|---|
+| Settings | Use pressure context | Boating intensity, tourism pressure, seasonal use | Defines the scale and timing of risk |
+| Resource system | Meadow disturbance | Anchor scars, prop scars, fragmentation, cover | Tracks direct ecological damage |
+| Resource units | Habitat function | Structural condition, fish or invertebrate indicators | Shows whether disturbance affects habitat value |
+| Actors | Boater behaviour and awareness | Awareness of rules, willingness to comply, attitudes | Behaviour change is central to success |
+| Governance system | Regulation and coordination | Anchoring rules, enforcement, agency coordination | Rules need to be clear, visible and enforceable |
+| Interactions | Pressure and response | Anchoring events, eco-mooring uptake, displacement | Links intervention to behaviour |
+| Outcomes | Disturbance reduction and legitimacy | Reduced scars, increased compliance, perceived fairness | Captures ecological and social success |
+
+## What the results might show
+
+### Anchor scars decline where eco-moorings are installed
+
+The intervention may be reducing direct damage.
+
+### Anchor scars decline at one site but increase nearby
+
+Pressure may have moved rather than disappeared.
+
+### Boaters value seagrass but do not know where restrictions apply
+
+The issue may be clarity of guidance rather than lack of concern.
+
+### Rules exist but enforcement is weak
+
+Governance capacity may be limiting success.
+
+::{.callout-tip title="Key message"}
+Boating management is not only an ecological issue. It is a behaviour and governance issue. Monitoring must connect physical damage with boater behaviour, rule clarity, enforcement and legitimacy.
+:::

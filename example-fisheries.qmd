@@ -1,0 +1,55 @@
+---
+title: "Worked example: tropical small-scale fisheries"
+---
+
+## Example: a local NGO monitoring seagrass fisheries in Tanzania or Indonesia
+
+A local NGO works with coastal communities where people fish and glean in seagrass meadows. The meadow supports food, income and daily livelihoods. At the same time, people are concerned about declining catches, sedimentation and coastal development.
+
+## The narrow question
+
+> Is there seagrass at the site?
+
+This is important, but too narrow.
+
+## The better question
+
+> Who depends on the meadow, how is it used, what pressures are changing, and are conservation actions improving both ecological condition and people’s wellbeing?
+
+::{.callout-note title="Scientific interpretation"}
+Access management changes the relationship between people and a common-pool resource. Monitoring therefore needs to track ecological condition, use, dependence, governance, compliance and social outcomes together.
+:::
+
+## Example monitoring plan
+
+| Domain | What to monitor | Example indicator | Why it matters |
+|---|---|---|---|
+| Settings | External pressures | Sedimentation, coastal development, market access | Wider pressures may shape ecological condition and resource use |
+| Resource system | Meadow condition | Seagrass extent, cover, species composition | Tracks ecological status and change |
+| Resource units | Fishery resources | Fish, invertebrates, gleaned resources | Links seagrass condition to food and livelihoods |
+| Actors | Dependence and capacity | Household reliance on seagrass, adaptive capacity, local knowledge | Shows who is most exposed to decline or restrictions |
+| Governance system | Access and rules | Rule clarity, participation, enforcement, tenure | Determines whether management is legitimate and workable |
+| Interactions | Resource use | Fishing effort, gleaning effort, compliance, conflict | Shows whether behaviour and pressure are changing |
+| Outcomes | Social-ecological results | Catch, food security, wellbeing, fairness, meadow trajectory | Shows whether conservation works for nature and people |
+
+## What the results might show
+
+### Seagrass cover improves, but catches do not
+
+Fish recovery may take longer, fishing pressure may remain high, or other habitats in the seascape may limit recovery.
+
+### Rules reduce pressure, but poorer households lose access to food
+
+This signals an equity problem. Conservation may need redesign to avoid increasing vulnerability.
+
+### Local people identify sedimentation, but management focuses only on fishing
+
+There may be a mismatch between the intervention and the actual pressure pathway.
+
+### Compliance is high where communities helped design the rules
+
+Participation and legitimacy may be helping management work.
+
+::{.callout-tip title="Key message"}
+In seagrass fisheries, ecological condition, food security, livelihoods and governance are connected. Monitoring should show not only whether the meadow is changing, but whether management is fair, legitimate and effective.
+:::

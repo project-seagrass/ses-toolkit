@@ -1,0 +1,47 @@
+---
+title: "Methods explained simply"
+---
+
+## Methods explained simply
+
+The best method depends on the question, the place, the available capacity and the people involved.
+
+This toolkit is method-guided, not method-fixed. The same variable can be measured in different ways.
+
+:::{.callout-note title="Scientific interpretation"}
+Method flexibility is central to making the framework globally usable. Fish abundance might be measured by BRUVS, underwater visual census, catch monitoring or local knowledge. Anchoring pressure might be measured through direct counts, drone imagery, scar surveys or citizen science. The indicator remains meaningful when the method is appropriate to the context.
+:::
+
+| Method | Useful for | Strengths | Limits |
+|---|---|---|---|
+| Quadrat surveys | Cover, species, shoot density, invertebrates | Low-cost, repeatable | Needs consistency and training |
+| Photoquadrats | Cover, species, visible change | Creates a visual record | Image quality can vary |
+| Fixed transects | Change through time | Good for long-term monitoring | Needs repeat access |
+| Field mapping | Extent and meadow boundary | Practical and locally useful | Can miss deep or inaccessible areas |
+| Drone surveys | Extent, fragmentation, scars | Strong spatial record | Needs equipment and permissions |
+| Remote sensing | Large-scale extent and change | Useful across broad areas | Limited in turbid or deep water |
+| BRUVS | Fish abundance and diversity | Non-extractive biodiversity data | Requires equipment and analysis time |
+| Underwater visual census | Fish and habitat observations | Direct and detailed | Requires trained observers |
+| Catch monitoring | Fisheries outcomes | Links ecology to livelihoods | Needs trust and repeat effort |
+| Household surveys | Dependence, livelihoods, food security | Captures social outcomes | Needs ethical design |
+| Interviews | Knowledge, values, governance, change | Rich local context | Takes time and trust |
+| Focus groups | Shared histories, conflict, priorities | Good for group discussion | Some voices may dominate |
+| Participatory mapping | Use areas, pressures, values | Strong for engagement | Needs careful facilitation |
+| Policy review | Rules, rights, plans | Clarifies governance context | Written rules may differ from practice |
+| Key informant interviews | Governance and history | Efficient expert insight | May reflect partial views |
+| Citizen science | Occurrence, visible threats, engagement | Scalable and participatory | Requires quality control |
+
+## Low-cost monitoring can still be social-ecological
+
+A simple monitoring plan could combine:
+
+- photoquadrats for seagrass cover
+- local observations of sedimentation or anchoring
+- participatory mapping of use and pressures
+- interviews with fishers, boaters or residents
+- a review of local rules and responsibilities
+- repeat discussion of outcomes and management needs
+
+:::{.callout-tip title="Practical takeaway"}
+The key is not expensive methods. The key is whether the chosen methods help you understand the whole system.
+:::

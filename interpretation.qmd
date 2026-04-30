@@ -1,0 +1,103 @@
+---
+title: "Interpret results"
+---
+
+## How to interpret results
+
+Social-ecological monitoring is not just about collecting more data. It is about reading different indicators together.
+
+The aim is to understand patterns, relationships and possible causes.
+
+## Read across the seven domains
+
+When reviewing results, ask:
+
+- What is changing in the setting?
+- What is changing in the meadow?
+- What is changing in the animals or resources the meadow supports?
+- What is changing for people?
+- What is changing in governance?
+- What is changing in behaviour or pressure?
+- What outcomes are emerging?
+
+:::{.callout-note title="Scientific interpretation"}
+The strength of the framework is not only that it adds social indicators. Its value lies in linking indicators so that users can infer plausible pathways of change and adapt management accordingly.
+:::
+
+## Useful patterns to look for
+
+### Ecological decline and increasing pressure
+
+Example: seagrass cover is declining, turbidity is increasing and local users report more runoff.
+
+Possible interpretation: the meadow may be affected by land-based sedimentation or water quality decline.
+
+Possible action: strengthen catchment, runoff or coastal development management.
+
+### Ecological recovery but weak social support
+
+Example: seagrass cover is increasing, but local people feel excluded from decisions.
+
+Possible interpretation: ecological progress may not be socially durable.
+
+Possible action: improve participation, communication and shared decision-making.
+
+### Strong rules but weak compliance
+
+Example: anchoring restrictions exist, but boaters continue to anchor in seagrass.
+
+Possible interpretation: rules may not be visible, understood, trusted or enforced.
+
+Possible action: improve signage, engagement, enforcement or mooring alternatives.
+
+### Restoration effort but continued disturbance
+
+Example: planting effort is high, but trampling or anchoring continues.
+
+Possible interpretation: restoration is occurring before pressure reduction is complete.
+
+Possible action: address disturbance before expanding planting.
+
+### Conservation success at one site but pressure elsewhere
+
+Example: fishing pressure declines inside a managed area but increases nearby.
+
+Possible interpretation: pressure displacement may be occurring.
+
+Possible action: monitor surrounding sites and adapt management boundaries or rules.
+
+### Ecological success but unequal social outcomes
+
+Example: seagrass condition improves, but poorer households lose access to important food resources.
+
+Possible interpretation: conservation benefits and costs are unevenly distributed.
+
+Possible action: review equity, access arrangements and community support measures.
+
+### Local knowledge and ecological data tell different stories
+
+Example: surveys show stable cover, but fishers report fewer fish and smaller catches.
+
+Possible interpretation: meadow structure may be stable while resource availability changes, or formal monitoring may be missing seasonal or historical change.
+
+Possible action: investigate resource units, fishing pressure and historical baselines.
+
+## Ask what needs to change
+
+Monitoring should support action.
+
+Ask:
+
+- What is working?
+- What is not working?
+- What pressure remains unresolved?
+- Who is benefiting?
+- Who may be losing out?
+- Are rules clear and legitimate?
+- Are people changing behaviour?
+- Are outcomes moving in the right direction?
+- What should be adapted next?
+
+:::{.callout-tip title="Practical takeaway"}
+Monitoring rarely gives perfect certainty. The aim is better understanding, better decisions and better learning over time.
+:::

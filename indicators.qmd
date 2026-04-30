@@ -1,0 +1,95 @@
+---
+title: "Indicator library"
+---
+
+## Indicator library in plain English
+
+This page translates the variable library into practical language. Users do not need to measure all indicators. Select indicators that match the site, conservation issue, capacity and decision needs.
+
+:::{.callout-note title="Scientific interpretation"}
+The indicator library is designed to support context-specific construction of monitoring systems. It protects against ecology-only monitoring by requiring representation across all domains, but it avoids a rigid universal indicator list.
+:::
+
+## Settings
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Coastal land-use intensity | How much nearby land has been changed by people | Local knowledge, maps, field observations, participatory mapping | Land use can affect water quality, sedimentation and nutrient runoff |
+| Sedimentation and runoff risk | Whether soil, mud or runoff is reaching the meadow | Local observations, photos after rain, Secchi depth, participatory mapping | Sediment can reduce light, smother seagrass and make restoration fail |
+| Nutrient loading and water quality | Whether water has too many nutrients or poor clarity | Secchi depth, water clarity records, epiphyte estimates | Nutrients can drive algal growth and reduce light |
+| Coastal development pressure | Whether building, dredging or shoreline modification may affect the meadow | Local observation, photos, policy review | Development can remove habitat or change sediment and water quality |
+| Climate exposure | Whether the site is exposed to heat, storms or sea-level change | Local records, temperature loggers, climate layers | Climate shocks can affect stability and recovery |
+
+## Resource system
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Seagrass extent | How much area the meadow covers | Field mapping, GPS, snorkel surveys, citizen science | Shows whether the meadow is expanding, shrinking or stable |
+| Percentage cover | How much of the seabed is covered by seagrass | Quadrats, photoquadrats, fixed transects | Core measure of ecological condition |
+| Species composition | Which seagrass species are present | Field identification, photo records | Captures compositional and functional change |
+| Meadow structure | Shoot density, canopy height or leaf area | Quadrats, ruler measurements | Helps explain habitat value for fish and invertebrates |
+| Fragmentation and patchiness | Whether the meadow is continuous or broken up | Field sketches, GPS mapping, drones | Fragmented meadows may be more vulnerable |
+| Physical disturbance | Visible damage such as anchor scars or trampling | Field observations, photographs, citizen science | Physical damage can stop recovery or cause decline |
+
+## Resource units
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Fish abundance | How many fish use the meadow | Local knowledge, catch records, visual observations | Links the meadow to biodiversity, fisheries and food |
+| Fish diversity | Which fish species are present | Fisher knowledge, photo records, surveys | Shows whether the meadow supports diverse communities |
+| Juvenile fish | Whether the meadow supports young fish | Fisher knowledge, simple observations, seine nets | Captures nursery function |
+| Invertebrates | Shellfish, gleaned animals and small animals | Timed searches, quadrats, local knowledge | Important for food security and biodiversity |
+| Megafauna use | Turtles, dugongs, rays, birds or mammals | Sightings, citizen science, local knowledge | Captures policy-relevant species supported by seagrass |
+| Historical trends | How resources have changed over time | Interviews, Best Catch, oral histories | Provides temporal context where long-term data are absent |
+
+## Actors
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Household dependence | How much people rely on seagrass for food or income | Interviews, household surveys, focus groups | Shows who may be most affected by decline or restrictions |
+| Resource use patterns | How people use the meadow | Interviews, user counts, participatory mapping | Helps explain pressure and management needs |
+| Adaptive capacity | Whether people have options if access or ecology changes | Household surveys, interviews | Determines vulnerability to ecological or regulatory change |
+| Local knowledge | Knowledge of seasons, change, drivers and values | Interviews, focus groups, participatory mapping | Reveals trends not captured by short-term datasets |
+| Stewardship | How people care for or monitor the meadow | Project records, questionnaires | Supports long-term conservation durability |
+| Place attachment | How people feel connected to the place | Interviews, focus groups | Non-material values can shape support |
+| Awareness and attitudes | What people know and feel about seagrass and rules | Questionnaires, interviews | Helps explain behaviour and compliance |
+| Trust and social capital | Whether people trust managers and each other | Surveys, focus groups | Affects cooperation and legitimacy |
+
+## Governance system
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Management rules | Whether rules exist for activities affecting seagrass | Policy review, management plans, interviews | Rules shape whether pressures can be managed |
+| Access and tenure | Who can use, manage or restrict access | Participatory mapping, key informants | Determines who benefits and who bears costs |
+| Participation | Whether affected people are included in decisions | Meeting records, interviews | Affects legitimacy and fairness |
+| Enforcement capacity | Whether rules can be followed and enforced | Manager interviews, household surveys | Rules may not change behaviour without enforcement |
+| Cross-sector coordination | Whether agencies work together | Institutional mapping, key informants | Seagrass pressures often come from multiple sectors |
+| Conflict resolution | Whether disputes can be managed fairly | Focus groups, governance review | Conservation can create or reveal conflict |
+| Financing and capacity | Whether monitoring and management can continue | Project records, organisational assessment | Monitoring often fails when funding ends |
+| Data governance and ethics | Who owns, controls and benefits from data | Consent processes, protocol review | Critical when using community knowledge |
+
+## Interactions
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Fishing and gleaning pressure | How much extractive use occurs | Interviews, catch monitoring, participatory mapping | Fishing and gleaning can be livelihoods and pressures |
+| Boating and anchoring pressure | How boats and anchors affect the meadow | User counts, observations, drone surveys | Captures direct physical damage |
+| Restoration effort | What restoration activity has taken place | Project records, spatial records | Outcomes cannot be interpreted without effort data |
+| Behaviour change | Whether people are changing practices | Surveys, observation, project records | Many interventions work only if behaviour changes |
+| Displacement effects | Whether pressure moved elsewhere | Interviews, participatory mapping, nearby monitoring | Avoids false success at one site |
+| Conflict and cooperation | Whether users cooperate or conflict | Focus groups, interviews | Social stability affects durability |
+| Unintended consequences | Unexpected effects or trade-offs | Interviews, focus groups, reflection sessions | Reveals system responses beyond intended outputs |
+
+## Outcomes
+
+| Indicator | What it means | Simple methods | Why it matters |
+|---|---|---|---|
+| Seagrass condition trajectory | Whether condition is improving or declining | Repeat EOV monitoring, mapping | Core ecological outcome |
+| Biodiversity and function | Whether the meadow supports ecological life | Faunal surveys, local knowledge | A meadow can exist without fully recovering function |
+| Resource availability | Whether used resources are changing | Catch monitoring, local knowledge | Links ecology to provisioning benefits |
+| Food security | Whether seagrass supports diets and food access | Household surveys, interviews | Key outcome in dependent systems |
+| Livelihood outcomes | Effects on income or stability | Livelihood surveys, interviews | Conservation can affect economic wellbeing |
+| Wellbeing | Effects on pride, identity or quality of life | Questionnaires, focus groups | Not all values are financial |
+| Equity and fairness | Whether costs and benefits are fair | Focus groups, disaggregated surveys | Unfair conservation may not last |
+| Compliance and legitimacy | Whether rules are supported and followed | Surveys, observations | Durable management depends on legitimacy |
+| Adaptive management response | Whether monitoring leads to action | Management records, policy review | Monitoring should inform decisions |

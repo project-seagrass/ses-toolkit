@@ -1,0 +1,55 @@
+---
+title: "Worked example: coastal development and runoff"
+---
+
+## Example: understanding seagrass decline near coastal development
+
+A seagrass meadow near a growing coastal town is declining. Local people report muddier water after rainfall. There is new shoreline development, road construction and increased runoff from the surrounding catchment.
+
+## The narrow question
+
+> Is the seagrass cover declining?
+
+This is important, but too narrow.
+
+## The better question
+
+> Are land-use change, runoff, sedimentation or coastal development affecting the meadow, and are governance systems able to respond?
+
+::{.callout-note title="Scientific interpretation"}
+Seagrass condition is often shaped by cross-scale drivers. Settings and governance indicators help reveal pressures that are not visible if monitoring focuses only inside the meadow boundary.
+:::
+
+## Example monitoring plan
+
+| Domain | What to monitor | Example indicator | Why it matters |
+|---|---|---|---|
+| Settings | Land-sea pressures | Land use, runoff, river proximity, development pressure | Identifies external drivers affecting the meadow |
+| Resource system | Meadow condition | Cover, extent, epiphytes, water clarity | Shows ecological response to changing conditions |
+| Resource units | Ecological function | Fish, invertebrates, nursery indicators | Shows whether decline affects biodiversity and resources |
+| Actors | Affected and influential groups | Fishers, residents, developers, regulators, tourism operators | Identifies who depends on or influences the system |
+| Governance system | Planning and water quality governance | Development rules, permitting, enforcement, agency coordination | Determines whether land-based drivers can be managed |
+| Interactions | Pressure pathways | Runoff events, dredging, shoreline modification, community reporting | Connects external activities with meadow condition |
+| Outcomes | Management response and recovery | Meadow trajectory, resource change, policy response, perceived fairness | Shows whether monitoring leads to action |
+
+## What the results might show
+
+### Seagrass declines after major runoff events
+
+Sedimentation or water quality may be a key pressure.
+
+### Fishers report declining resources before surveys detect major cover loss
+
+Local knowledge may provide early warning.
+
+### Several agencies have partial responsibility but none has clear responsibility for seagrass
+
+Governance fragmentation may be a central barrier.
+
+### Development continues despite evidence of pressure
+
+Monitoring needs to connect more strongly with planning and policy processes.
+
+::{.callout-tip title="Key message"}
+Some seagrass problems begin outside the meadow. Monitoring must connect land, water, people, governance and ecological change.
+:::
