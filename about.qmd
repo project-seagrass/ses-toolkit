@@ -4,7 +4,7 @@ title: "Why social-ecological monitoring?"
 
 ## Why monitor seagrass as a social-ecological system?
 
-Seagrass meadows grow in places where people fish, glean, anchor boats, restore habitats, manage coastlines, build infrastructure and make decisions. Their future is shaped by ecological conditions and human systems together.
+Seagrass meadows grow in places where people fish, glean, anchor boats, are restoring habitats, manage coastlines, build infrastructure and make decisions. Their future is shaped by ecological conditions and human systems together.
 
 Ecological monitoring can tell us whether seagrass is present, how much cover there is, and whether a meadow is expanding or declining. These are vital measurements.
 
@@ -48,5 +48,5 @@ A social-ecological approach helps users understand whether conservation is:
 - likely to last
 
 :::{.callout-tip title="Practical takeaway"}
-If your monitoring cannot help explain why change is happening, who is affected, and what action is needed, it is probably not yet giving you enough information to guide conservation.
+If your monitoring cannot help explain why change is happening, who is affected, and what action is needed, it is probably not yet giving you enough information to guide lasting conservation success.
 :::
