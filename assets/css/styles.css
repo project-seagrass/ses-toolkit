@@ -8,6 +8,36 @@
   --ps-text: #203131;
 }
 
+/* Keep the page content visually left-aligned rather than floating too centrally */
+.page-layout-article .page-columns {
+  grid-template-columns:
+    [screen-start] 1.5rem
+    [screen-start-inset] 1fr
+    [page-start] minmax(0, 900px)
+    [page-end] 1fr
+    [screen-end-inset] 1.5rem
+    [screen-end];
+}
+
+/* Main content width */
+main.content {
+  max-width: 900px;
+  margin-left: 0;
+}
+
+/* Improve reading rhythm */
+.content p,
+.content li {
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+/* Keep headings clean and spacious */
+.content h1,
+.content h2,
+.content h3 {
+  line-height: 1.2;
+}
 body {
   color: var(--ps-text);
   line-height: 1.68;
