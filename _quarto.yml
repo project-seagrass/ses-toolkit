@@ -4,9 +4,8 @@ project:
 
 website:
   title: "Seagrass Social-Ecological Monitoring Toolkit"
-  favicon: assets/img/favicon.svg
   navbar:
-    logo: assets/img/project-seagrass-logo.svg
+    logo: assets/img/project_seagrass_logo.png
     title: "Seagrass Social-Ecological Monitoring Toolkit"
     background: light
     foreground: dark
