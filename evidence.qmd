@@ -42,6 +42,8 @@ A shared seven-domain structure allows local adaptation without losing comparabi
 
 ## References by theme
 
+This is not an expansive reference list, and is instead useful to guide reading.
+
 
 ### Social-ecological systems and monitoring
 
@@ -55,60 +57,46 @@ A shared seven-domain structure allows local adaptation without losing comparabi
 
 ### Seagrass ecosystem services and human wellbeing
 
+- Unsworth, R.K.F., Cullen-Unsworth, L.C., Jones, B.L.H., and Lilley, R.J. (2022). The planetary role of seagrass conservation. Science 377, 609-613.
 - Cullen-Unsworth, L.C., Nordlund, L.M., Paddock, J., Baker, S., McKenzie, L.J., and Unsworth, R.K. (2014). Seagrass meadows globally as a coupled social-ecological system: implications for human wellbeing. Marine Pollution Bulletin 83, 387-397.
-- Duffy, J.E., Appeltans, W., Benson, A., Connolly, R.M., de la Torre-Castro, M., Dierssen, H.M., Fortes, M.D., Fourqurean, J.W., Hessing-Lewis, M., Jarvis, J.C., Kenworthy, W.J., Krause, J.R., Lara Lopez, A., Lefcheck, J.S., Lizcano-Sandoval, L., Lonneman, M., McKenzie, L., Muller-Karger, F.E., Nakaoka, M., Nordlund, L.M., Provoost, P., Roelfsema, C.M., and Unsworth, R.K.F. (2026). Measuring and Reporting on Seagrass as an Essential Ocean Variable for Science and Management. BioScience 76, 359-374.
 - Evans, A.J., Ford, E., and Cullen-Unsworth, L. (2025). Connecting governance and practice views on the barriers and solutions to scaled seagrass restoration in the UK. Marine Policy 180, 106781.
-- Hoad, Nicholas M., and Nordlund, Lina M. (2025). Expert Perceptions on Seagrass Governance, Policy and Management in the Western Indian Ocean. Aquatic Conservation: Marine and Freshwater Ecosystems 35, e70223.
 - Jänes, H., Carnell, P., Young, M., Ierodiaconou, D., Jenkins, G.P., Hamer, P., Zu Ermgassen, P.S.E., Gair, J.R., and Macreadie, P.I. (2021). Seagrass valuation from fish abundance, biomass and recreational catch. Ecological Indicators 130, 108097.
 - Jones, B.L., Nordlund, L.M., Unsworth, R.K.F., Jiddawi, N.S., and Eklöf, J.S. (2021). Seagrass Structural Traits Drive Fish Assemblages in Small-Scale Fisheries. Frontiers in Marine Science 8, 354.
 - Jones, B.L., Unsworth, R.K.F., McKenzie, L.J., Yoshida, R.L., and Cullen-Unsworth, L.C. (2018). Crowdsourcing conservation: The role of citizen science in securing a future for seagrass. Mar Pollut Bull 134, 210-215.
-- Jones, B.L.H., Coals, L., Cullen-Unsworth, L.C., Lilley, R.J., Bartlett, A., and Unsworth, R.K.F. (2025a). Mapping global threats to seagrass meadows reveals opportunities for conservation. Environmental Research: Ecology 4, 025005.
-- Jones, B.L.H., Cullen-Unsworth, L.C., de la Torre-Castro, M., Nordlund, L.M., Unsworth, R.K.F., and Eklöf, J.S. (2022a). Unintended consequences of sustainable development initiatives: risks and opportunities in seagrass social-ecological systems. Ecology and Society 27.
-- Jones, B.L.H., Eklöf, J.S., Unsworth, R.K.F., Coals, L., Christianen, M.J.A., Clifton, J., Cullen-Unsworth, L.C., de la Torre-Castro, M., Esteban, N., Huxham, M., Jiddawi, N.S., McKenzie, L.J., Nakaoka, M., Nordlund, L.M., Ooi, J.L.S., and Prathep, A. (2025b). Risks of habitat loss from seaweed cultivation within seagrass. Proceedings of the National Academy of Sciences 122, e2426971122.
+- Jones, B.L.H., Cullen-Unsworth, L.C., de la Torre-Castro, M., Nordlund, L.M., Unsworth, R.K.F., and Eklöf, J.S. (2022). Unintended consequences of sustainable development initiatives: risks and opportunities in seagrass social-ecological systems. Ecology and Society 27.
 
 ### Seagrass ecological monitoring and Essential Ocean Variables
 
 - Duffy, J.E., Appeltans, W., Benson, A., Connolly, R.M., de la Torre-Castro, M., Dierssen, H.M., Fortes, M.D., Fourqurean, J.W., Hessing-Lewis, M., Jarvis, J.C., Kenworthy, W.J., Krause, J.R., Lara Lopez, A., Lefcheck, J.S., Lizcano-Sandoval, L., Lonneman, M., McKenzie, L., Muller-Karger, F.E., Nakaoka, M., Nordlund, L.M., Provoost, P., Roelfsema, C.M., and Unsworth, R.K.F. (2026). Measuring and Reporting on Seagrass as an Essential Ocean Variable for Science and Management. BioScience 76, 359-374.
 - Isbell, F., Gonzalez, A., Loreau, M., Cowles, J., Díaz, S., Hector, A., Mace, G.M., Wardle, D.A., O'Connor, M.I., and Duffy, J.E. (2017). Linking the influence and dependence of people on biodiversity across scales. Nature 546, 65-72.
-- Turschwell, M.P., Connolly, R.M., Dunic, J.C., Sievers, M., Buelow, C.A., Pearson, R.M., Tulloch, V.J.D., Côté, I.M., Unsworth, R.K.F., Collier, C.J., and Brown, C.J. (2021). Anthropogenic pressures and life history predict trajectories of seagrass meadow extent at a global scale. Proceedings of the National Academy of Sciences 118, e2110802118.
 
 ### Seagrass fisheries, food security and livelihoods
 
-- Chirico, A.A.D., McClanahan, T.R., and Eklof, J.S. (2017). Community- and government-managed marine protected areas increase fish size, biomass and potential value. PLoS One 12, e0182342.
+- Cullen-Unsworth, L.C., Nordlund, L.M., Paddock, J., Baker, S., McKenzie, L.J., and Unsworth, R.K. (2014). Seagrass meadows globally as a coupled social-ecological system: implications for human wellbeing. Marine Pollution Bulletin 83, 387-397.
 - Chitará-Nhandimo, S., Chissico, A., Mubai, M.E., Cabral, A.D., Guissamulo, A., and Bandeira, S. 2022. Seagrass Invertebrate Fisheries, Their Value Chains and the Role of LMMAs in Sustainability of the Coastal Communities—Case of Southern Mozambique. Diversity [Online], 14.
 - Fanoro, T.F., Scarlet, M.P., and Bandeira, S.O. 2023. Intertidal Gleaning Exclusion as a Trigger for Seagrass Species and Fauna Recovery and Passive Seagrass Rehabilitation. Diversity [Online], 15.
-- Jones, B.L.H., Cullen-Unsworth, L.C., de la Torre-Castro, M., Nordlund, L.M., Unsworth, R.K.F., and Eklöf, J.S. (2022a). Unintended consequences of sustainable development initiatives: risks and opportunities in seagrass social-ecological systems. Ecology and Society 27.
-- Jones, B.L.H., Eklöf, J.S., Unsworth, R.K.F., Coals, L., Christianen, M.J.A., Clifton, J., Cullen-Unsworth, L.C., de la Torre-Castro, M., Esteban, N., Huxham, M., Jiddawi, N.S., McKenzie, L.J., Nakaoka, M., Nordlund, L.M., Ooi, J.L.S., and Prathep, A. (2025b). Risks of habitat loss from seaweed cultivation within seagrass. Proceedings of the National Academy of Sciences 122, e2426971122.
+- Jones, B.L.H., Cullen-Unsworth, L.C., de la Torre-Castro, M., Nordlund, L.M., Unsworth, R.K.F., and Eklöf, J.S. (2022). Unintended consequences of sustainable development initiatives: risks and opportunities in seagrass social-ecological systems. Ecology and Society 27.
 - Pike, F., Lindström, L., Ekstedt, J., Jiddawi, N.S., and de la Torre-Castro, M. (2024). Dynamic livelihoods, gender and poverty in marine protected areas: Case study from Zanzibar, Tanzania. Ambio 53, 1218-1233.
-
-### Indigenous and local knowledge
-
-- See full references page.
+- Jones, B.L., Nordlund, L.M., Unsworth, R.K.F., Jiddawi, N.S., and Eklöf, J.S. (2021). Seagrass Structural Traits Drive Fish Assemblages in Small-Scale Fisheries. Frontiers in Marine Science 8, 354.
 
 ### Governance, equity and participation
 
 - Grimm, K.E., Archibald, J.L., Bonilla-Anariba, S.E., Bood, N., and Canty, S.W. (2023). Framework for fostering just and equitable seagrass policy, management, and social-ecological outcomes: Lessons learned from Belizean marine resource managers. Marine Policy 152, 105606.
 - Hoad, Nicholas M., and Nordlund, Lina M. (2025). Expert Perceptions on Seagrass Governance, Policy and Management in the Western Indian Ocean. Aquatic Conservation: Marine and Freshwater Ecosystems 35, e70223.
-- Isbell, F., Gonzalez, A., Loreau, M., Cowles, J., Díaz, S., Hector, A., Mace, G.M., Wardle, D.A., O'Connor, M.I., and Duffy, J.E. (2017). Linking the influence and dependence of people on biodiversity across scales. Nature 546, 65-72.
 - Pike, F., Lindström, L., Ekstedt, J., Jiddawi, N.S., and de la Torre-Castro, M. (2024). Dynamic livelihoods, gender and poverty in marine protected areas: Case study from Zanzibar, Tanzania. Ambio 53, 1218-1233.
-- Reyes‐García, V., Fernández‐Llamazares, Á., McElwee, P., Molnár, Z., Öllerer, K., Wilson, S.J., and Brondizio, E.S. (2019). The contributions of Indigenous Peoples and local communities to ecological restoration. Restoration Ecology 27, 3-8.
-- Vári, Á., Gonzalez, A., and Bennett, E.M. (2025). Monitor social–ecological systems to achieve global goals for biodiversity and nature's contributions to people. BioScience 75, 276-280.
 
 ### Restoration and functional recovery
 
 - Astruch, P., Boudouresque, C.-F., Ferrando-Demange, J., Belloni, B., Charbonnel, É., Gravez, V., and Schohn, T. (2026). Passive restoration of a Mediterranean Posidonia oceanica seagrass meadow: A 40-year survey. Marine Environmental Research 217, 107965.
-- de los Santos, C.B., Krause-Jensen, D., Alcoverro, T., Marbà, N., Duarte, C.M., van Katwijk, M.M., Pérez, M., Romero, J., Sánchez-Lizaso, J.L., Roca, G., Jankowska, E., Pérez-Lloréns, J.L., Fournier, J., Montefalcone, M., Pergent, G., Ruiz, J.M., Cabaço, S., Cook, K., Wilkes, R.J., Moy, F.E., Trayter, G.M.-R., Arañó, X.S., de Jong, D.J., Fernández-Torquemada, Y., Auby, I., Vergara, J.J., and Santos, R. (2019). Recent trend reversal for declining European seagrass meadows. Nature Communications 10, 3356.
 - Ferretto, G., Glasby, T.M., Poore, A.G., Callaghan, C.T., Housefield, G.P., Langley, M., Sinclair, E.A., Statton, J., Kendrick, G.A., and Vergés, A. (2021). Naturally-detached fragments of the endangered seagrass Posidonia australis collected by citizen scientists can be used to successfully restore fragmented meadows. Biological Conservation 262, 109308.
+- Unsworth, R.K.F., Bertelli, C.M., Coals, L., Cullen-Unsworth, L.C., den Haan, S., Jones, B.L.H., Rees, S.R., Thomsen, E., Wookey, A., and Walter, B. (2023). Bottlenecks to seed-based seagrass restoration reveal opportunities for improvement. Global Ecology and Conservation 48, e02736.
 - Gagnon, K., Bocoum, E.H., Chen, C.Y., Baden, S.P., Moksnes, P.O., and Infantes, E. (2023). Rapid faunal colonization and recovery of biodiversity and functional diversity following eelgrass restoration. Restoration Ecology 31, e13887.
 - van Katwijk, M.M., Thorhaug, A., Marbà, N., Orth, R.J., Duarte, C.M., Kendrick, G.A., Althuizen, I.H.J., Balestri, E., Bernard, G., Cambridge, M.L., Cunha, A., Durance, C., Giesen, W., Han, Q., Hosokawa, S., Kiswara, W., Komatsu, T., Lardicci, C., Lee, K.-S., Meinesz, A., Nakaoka, M., O'Brien, K.R., Paling, E.I., Pickerell, C., Ransijn, A.M.A., and Verduin, J.J. (2016). Global analysis of seagrass restoration: the importance of large-scale planting. Journal of Applied Ecology 53, 567-578.
-- van Katwijk, M.M., Thorhaug, A., Marba, N., Orth, R.J., Duarte, C.M., Kendrick, G.A., Althuizen, I.H.J., Balestri, E., Bernard, G., Cambridge, M.L., Cunha, A., Durance, C., Giesen, W., Han, Q., Hosokawa, S., Kiswara, W., Komatsu, T., Lardicci, C., Lee, K.S., Meinesz, A., Nakaoka, M., O'Brien, K.R., Paling, E.I., Pickerell, C., Ransijn, A.M.A., and Verduin, J.J. (2015). Global analysis of seagrass restoration: the importance of large-scale planting. Journal of Applied Ecology In Press.
 
 ### Boating, anchoring and physical disturbance
 
 - Barry, S.C., Raskin, K.N., Hazell, J.E., Morera, M.C., and Monaghan, P.F. (2020). Evaluation of interventions focused on reducing propeller scarring by recreational boaters in Florida, USA. Ocean & Coastal Management 186, 105089.
 - Boucek, R.E., Anderson, K.A., Jones, B.L., and Rehage, J.S. (2024). When fishers ask for more protection: Co-produced spatial management recommendations to protect seagrass meadows from leisure boating. Marine Policy 167, 106227.
-- de los Santos, C.B., Krause-Jensen, D., Alcoverro, T., Marbà, N., Duarte, C.M., van Katwijk, M.M., Pérez, M., Romero, J., Sánchez-Lizaso, J.L., Roca, G., Jankowska, E., Pérez-Lloréns, J.L., Fournier, J., Montefalcone, M., Pergent, G., Ruiz, J.M., Cabaço, S., Cook, K., Wilkes, R.J., Moy, F.E., Trayter, G.M.-R., Arañó, X.S., de Jong, D.J., Fernández-Torquemada, Y., Auby, I., Vergara, J.J., and Santos, R. (2019). Recent trend reversal for declining European seagrass meadows. Nature Communications 10, 3356.
-- Jones, B.L.H., Santos, R.O., James, W.R., Costa, S.V., Adams, A.J., Boucek, R.E., Coals, L., Cullen-Unsworth, L.C., Shephard, S., and Rehage, J.S. (2024). New directions for Indigenous and local knowledge research and application in fisheries science: Lessons from a systematic review. Fish and Fisheries 25, 647-671.
 - Parry-Wilson, H.M., Rees, S.E., Leather, H., Cole, R., Rugg, C., and Attrill, M.J. (2019). Assessing behavioural and social responses to an eco-mooring trial for Zostera marina conservation management in Torbay, Southwest England. Ocean & Coastal Management 180, 104906.
 - Pergent-Martini, C., Monnier, B., Lehmann, L., Barralon, E., and Pergent, G. (2022). Major regression of Posidonia oceanica meadows in relation with recreational boat anchoring: A case study from Sant'Amanza bay. Journal of Sea Research 188, 102258.
 - Sagerman, J., Hansen, J.P., and Wikström, S.A. (2020). Effects of boat traffic and mooring infrastructure on aquatic vegetation: A systematic review and meta-analysis. Ambio 49, 517-530.
@@ -117,7 +105,7 @@ A shared seven-domain structure allows local adaptation without losing comparabi
 ### Land-sea pressures, water quality and coastal development
 
 - de los Santos, C.B., Krause-Jensen, D., Alcoverro, T., Marbà, N., Duarte, C.M., van Katwijk, M.M., Pérez, M., Romero, J., Sánchez-Lizaso, J.L., Roca, G., Jankowska, E., Pérez-Lloréns, J.L., Fournier, J., Montefalcone, M., Pergent, G., Ruiz, J.M., Cabaço, S., Cook, K., Wilkes, R.J., Moy, F.E., Trayter, G.M.-R., Arañó, X.S., de Jong, D.J., Fernández-Torquemada, Y., Auby, I., Vergara, J.J., and Santos, R. (2019). Recent trend reversal for declining European seagrass meadows. Nature Communications 10, 3356.
-- Duffy, J.E., Appeltans, W., Benson, A., Connolly, R.M., de la Torre-Castro, M., Dierssen, H.M., Fortes, M.D., Fourqurean, J.W., Hessing-Lewis, M., Jarvis, J.C., Kenworthy, W.J., Krause, J.R., Lara Lopez, A., Lefcheck, J.S., Lizcano-Sandoval, L., Lonneman, M., McKenzie, L., Muller-Karger, F.E., Nakaoka, M., Nordlund, L.M., Provoost, P., Roelfsema, C.M., and Unsworth, R.K.F. (2026). Measuring and Reporting on Seagrass as an Essential Ocean Variable for Science and Management. BioScience 76, 359-374.
+- Jones, B.L.H., Coals, L., Cullen-Unsworth, L.C., Lilley, R.J., Bartlett, A., and Unsworth, R.K.F. (2025). Mapping global threats to seagrass meadows reveals opportunities for conservation. Environmental Research: Ecology 4, 025005.
 - Griffiths, L.L., Connolly, R.M., and Brown, C.J. (2020). Critical gaps in seagrass protection reveal the need to address multiple pressures and cumulative impacts. Ocean & Coastal Management 183, 104946.
 - Hope, M., Jones, B.L.H., and Unsworth, R.K.F. (2026). Increasing nutrients negatively impact seagrass-associated biodiversity. Global Ecology and Conservation 67, e04164.
 - Quiros, T.A.L., Croll, D., Tershy, B., Fortes, M.D., and Raimondi, P. (2017). Land use is a better predictor of tropical seagrass condition than marine protection. Biological Conservation 209, 454-463.
@@ -127,10 +115,3 @@ A shared seven-domain structure allows local adaptation without losing comparabi
 
 - Duffy, J.E., Appeltans, W., Benson, A., Connolly, R.M., de la Torre-Castro, M., Dierssen, H.M., Fortes, M.D., Fourqurean, J.W., Hessing-Lewis, M., Jarvis, J.C., Kenworthy, W.J., Krause, J.R., Lara Lopez, A., Lefcheck, J.S., Lizcano-Sandoval, L., Lonneman, M., McKenzie, L., Muller-Karger, F.E., Nakaoka, M., Nordlund, L.M., Provoost, P., Roelfsema, C.M., and Unsworth, R.K.F. (2026). Measuring and Reporting on Seagrass as an Essential Ocean Variable for Science and Management. BioScience 76, 359-374.
 - Gagnon, K., Bocoum, E.H., Chen, C.Y., Baden, S.P., Moksnes, P.O., and Infantes, E. (2023). Rapid faunal colonization and recovery of biodiversity and functional diversity following eelgrass restoration. Restoration Ecology 31, e13887.
-- Jones, B.L.H., Coals, L., Cullen-Unsworth, L.C., Lilley, R.J., Bartlett, A., and Unsworth, R.K.F. (2025a). Mapping global threats to seagrass meadows reveals opportunities for conservation. Environmental Research: Ecology 4, 025005.
-- Unsworth, R.K.F., Bertelli, C.M., Coals, L., Cullen-Unsworth, L.C., den Haan, S., Jones, B.L.H., Rees, S.R., Thomsen, E., Wookey, A., and Walter, B. (2023). Bottlenecks to seed-based seagrass restoration reveal opportunities for improvement. Global Ecology and Conservation 48, e02736.
-- Unsworth, R.K.F., Cullen-Unsworth, L.C., Jones, B.L.H., and Lilley, R.J. (2022). The planetary role of seagrass conservation. Science 377, 609-613.
-
-## Full reference list
-
-The complete reference list extracted from the manuscript is available on the **References** page.
