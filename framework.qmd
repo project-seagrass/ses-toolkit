@@ -24,11 +24,11 @@ A monitoring plan should include at least one meaningful indicator from each dom
 The framework uses a core-plus-variable library approach. The seven-domain structure keeps monitoring social-ecological, while the indicator choices remain flexible enough for different places, interventions and capacities.
 :::
 
-## Figure 1: the framework
+## The framework
 
 ![Minimum viable social-ecological monitoring framework for seagrass conservation.](assets/img/figure-1.png){fig-alt="Minimum viable social-ecological monitoring framework for seagrass conservation." width="100%"}
 
-<p class="caption"><strong>Figure 1.</strong> This framework helps users avoid ecology-only monitoring by asking them to consider the wider setting, the meadow, the species and benefits it supports, the people connected to it, the governance system, the interactions taking place, and the outcomes for nature and people.</p>
+<p class="caption">This framework helps users avoid ecology-only monitoring by asking them to consider the wider setting, the meadow, the species and benefits it supports, the people connected to it, the governance system, the interactions taking place, and the outcomes for nature and people.</p>
 
 ## The seven domains in plain English
 
