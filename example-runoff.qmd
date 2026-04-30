@@ -16,7 +16,7 @@ This is important, but too narrow.
 
 > Are land-use change, runoff, sedimentation or coastal development affecting the meadow, and are governance systems able to respond?
 
-::{.callout-note title="Scientific interpretation"}
+:::{.callout-note title="Scientific interpretation"}
 Seagrass condition is often shaped by cross-scale drivers. Settings and governance indicators help reveal pressures that are not visible if monitoring focuses only inside the meadow boundary.
 :::
 
@@ -50,6 +50,6 @@ Governance fragmentation may be a central barrier.
 
 Monitoring needs to connect more strongly with planning and policy processes.
 
-::{.callout-tip title="Key message"}
+:::{.callout-tip title="Key message"}
 Some seagrass problems begin outside the meadow. Monitoring must connect land, water, people, governance and ecological change.
 :::
