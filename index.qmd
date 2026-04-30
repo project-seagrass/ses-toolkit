@@ -5,7 +5,7 @@ title: "Home"
 ::: {.hero}
 # Seagrass Social-Ecological Monitoring Toolkit
 
-<div class="subtitle">A practical learning guide for monitoring seagrass conservation across people, nature and place.</div>
+<div class="hero-subtitle">A practical learning guide for monitoring seagrass conservation across people, nature and place.</div>
 
 Seagrass monitoring should help us understand more than whether a meadow is changing. It should help us understand **why** it is changing, **who** is affected, and **what action** is needed next.
 :::
