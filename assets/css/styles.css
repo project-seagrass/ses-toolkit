@@ -304,3 +304,9 @@ table a {
 body {
   border-top: 12px solid #ff5020 !important;
 }
+
+.navbar,
+.navbar.navbar-expand-lg {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
