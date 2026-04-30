@@ -2,9 +2,9 @@
 title: "Full references"
 ---
 
-## Full reference list
+## Expanded reference list
 
-This page retains the full reference list extracted from the manuscript so that the Quarto site does not lose the scientific backbone.
+This page contains a library of academic references that helped define this social-ecological monitoring toolkit.
 
 - Astruch, P., Boudouresque, C.-F., Ferrando-Demange, J., Belloni, B., Charbonnel, É., Gravez, V., and Schohn, T. (2026). Passive restoration of a Mediterranean Posidonia oceanica seagrass meadow: A 40-year survey. Marine Environmental Research 217, 107965.
 - Barry, S.C., Raskin, K.N., Hazell, J.E., Morera, M.C., and Monaghan, P.F. (2020). Evaluation of interventions focused on reducing propeller scarring by recreational boaters in Florida, USA. Ocean & Coastal Management 186, 105089.
