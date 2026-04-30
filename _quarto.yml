@@ -4,52 +4,53 @@ project:
 
 website:
   title: "Seagrass Social-Ecological Monitoring Toolkit"
+  site-url: "https://projectseagrass.github.io/seagrass-ses-monitoring-toolkit/"
+
   navbar:
-    logo: assets/img/project_seagrass_logo.png
-    title: "Seagrass Social-Ecological Monitoring Toolkit"
-    background: light
-    foreground: dark
+    logo: assets/img/project-seagrass-logo.svg
+    logo-alt: "Project Seagrass logo"
+    title: false
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Why SES monitoring?
-      - href: framework.qmd
-        text: Seven parts
-      - href: plan.qmd
-        text: Build a plan
-      - href: indicators.qmd
-        text: Indicators
-      - href: methods.qmd
-        text: Methods
-      - text: Worked examples
-        menu:
-          - href: example-restoration.qmd
-            text: Temperate restoration
-          - href: example-fisheries.qmd
-            text: Tropical fisheries
-          - href: example-boating.qmd
-            text: Boating and anchoring
-          - href: example-runoff.qmd
-            text: Coastal development and runoff
-      - href: interpretation.qmd
-        text: Interpret results
-      - href: evidence.qmd
-        text: Evidence
-      - href: references-full.qmd
-        text: References
+      - text: "Seagrass Social-Ecological Monitoring Toolkit"
+        href: index.qmd
+
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Why SES monitoring?"
+        href: why-ses.qmd
+      - text: "The seven parts"
+        href: framework.qmd
+      - text: "Building a monitoring plan"
+        href: monitoring-plan.qmd
+      - text: "Indicator library"
+        href: indicator-library.qmd
+      - text: "Methods"
+        href: methods.qmd
+      - section: "Worked examples"
+        contents:
+          - text: "Temperate restoration"
+            href: example-restoration.qmd
+          - text: "Tropical small-scale fisheries"
+            href: example-fisheries.qmd
+          - text: "Boating and anchoring"
+            href: example-boating.qmd
+          - text: "Coastal development and runoff"
+            href: example-runoff.qmd
+      - text: "Interpreting results"
+        href: interpretation.qmd
+      - text: "Evidence base"
+        href: evidence.qmd
+      - text: "References"
+        href: references.qmd
 
 format:
   html:
     theme: cosmo
-    toc: true
-    toc-depth: 3
-    smooth-scroll: true
-    code-fold: false
-    page-layout: full
     css: assets/css/styles.css
-    include-in-header:
-      text: |
-        <meta name="description" content="A practical learning guide for monitoring seagrass conservation across people, nature and place.">
-execute:
-  freeze: auto
+    toc: true
+    toc-location: right
+    page-layout: article
