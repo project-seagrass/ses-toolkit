@@ -6,7 +6,7 @@ website:
   title: "Seagrass Social-Ecological Monitoring Toolkit"
 
   navbar:
-    logo: assets/img/project-seagrass-logo.svg
+    logo: assets/img/project-seagrass-logo.png
     logo-alt: "Project Seagrass logo"
     title: "Seagrass Social-Ecological Monitoring Toolkit"
     left: []
