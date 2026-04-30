@@ -1,7 +1,10 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - assets/css/styles.css
+    - assets/img/project_seagrass_logo.png
+    
 website:
   title: "Seagrass Social-Ecological Monitoring Toolkit"
 
