@@ -305,8 +305,33 @@ body {
   border-top: 12px solid #ff5020 !important;
 }
 
+/* Remove all visible lines/shadows around the top navbar/header */
 .navbar,
-.navbar.navbar-expand-lg {
-  border-bottom: none !important;
+.navbar.navbar-expand-lg,
+header,
+header.navbar,
+#quarto-header,
+#quarto-header .navbar,
+.quarto-navbar,
+.navbar-container,
+.navbar-collapse {
+  border-bottom: 0 !important;
+  border-top: 0 !important;
   box-shadow: none !important;
+}
+
+/* Quarto sometimes adds the line via pseudo-elements */
+.navbar::before,
+.navbar::after,
+#quarto-header::before,
+#quarto-header::after {
+  border: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+/* Remove any extra divider created by old nav spacing rules */
+.navbar .navbar-nav {
+  border-top: 0 !important;
+  border-bottom: 0 !important;
 }
