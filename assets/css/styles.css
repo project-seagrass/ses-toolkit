@@ -300,3 +300,7 @@ thead {
 table a {
   color: var(--ps-teal);
 }
+
+body {
+  border-top: 12px solid #ff5020 !important;
+}
