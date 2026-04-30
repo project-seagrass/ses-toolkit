@@ -1,4 +1,3 @@
-
 :root {
   --ps-teal: #007c78;
   --ps-dark-teal: #004b4a;
@@ -8,21 +7,111 @@
   --ps-text: #203131;
 }
 
-/* Keep the page content visually left-aligned rather than floating too centrally */
-.page-layout-article .page-columns {
+/* General text */
+body {
+  color: var(--ps-text);
+  line-height: 1.68;
+}
+
+/* ================================
+   TOP NAVBAR
+   ================================ */
+
+.navbar {
+  border-bottom: 1px solid #e1ece9;
+  min-height: 74px;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+}
+
+/* Project Seagrass logo */
+.navbar-brand img {
+  max-height: 60px;
+  width: auto;
+  margin-right: 0.75rem;
+}
+
+/* Site title in top navbar */
+.navbar-title {
+  font-weight: 800;
+  color: var(--ps-dark-teal);
+  line-height: 1.12;
+  white-space: normal;
+  font-size: 1.12rem;
+}
+
+/* Subtitle under navbar title */
+.navbar-title::after {
+  content: "A practical learning guide for monitoring seagrass conservation across people, nature and place.";
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: #42615f;
+  margin-top: 0.12rem;
+  max-width: 760px;
+}
+
+/* Remove unwanted top nav link spacing */
+.navbar .navbar-nav {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+/* ================================
+   LEFT SIDEBAR
+   ================================ */
+
+.sidebar {
+  background: #f8fcfb;
+  border-right: 1px solid #e1ece9;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a,
+.sidebar .sidebar-item-text,
+.sidebar .sidebar-item-container {
+  color: var(--ps-dark-teal);
+}
+
+.sidebar .sidebar-item-text {
+  font-weight: 600;
+}
+
+.sidebar-title {
+  display: none;
+}
+
+/* Make sidebar sit clearly on the left */
+#quarto-sidebar {
+  padding-top: 1.25rem;
+}
+
+/* ================================
+   PAGE LAYOUT
+   ================================ */
+
+/* Stop content floating in the middle */
+.page-layout-full .page-columns {
+  display: grid;
   grid-template-columns:
-    [screen-start] 1.5rem
-    [screen-start-inset] 1fr
+    [screen-start] 2rem
+    [screen-start-inset] 0
     [page-start] minmax(0, 900px)
-    [page-end] 1fr
-    [screen-end-inset] 1.5rem
+    [page-end] minmax(1rem, 1fr)
+    [screen-end-inset] 0
     [screen-end];
 }
 
-/* Main content width */
+/* Main readable content */
 main.content {
   max-width: 900px;
   margin-left: 0;
+  padding-left: 0;
+}
+
+/* Pull body content left where possible */
+#quarto-content {
+  justify-content: flex-start;
 }
 
 /* Improve reading rhythm */
@@ -32,58 +121,118 @@ main.content {
   line-height: 1.65;
 }
 
-/* Keep headings clean and spacious */
-.content h1,
-.content h2,
-.content h3 {
+/* Headings */
+h1, h2, h3 {
+  color: var(--ps-dark-teal);
   line-height: 1.2;
 }
-body {
-  color: var(--ps-text);
-  line-height: 1.68;
+
+/* Avoid huge default page title */
+.title {
+  font-size: 1.8rem;
 }
 
-.navbar {
-  border-bottom: 1px solid #e1ece9;
-  padding-top: .55rem;
-  padding-bottom: .35rem;
+/* ================================
+   HOMEPAGE HERO
+   ================================ */
+
+.hero {
+  background: linear-gradient(135deg, #f4fbf8 0%, #eef8fb 60%, #ffffff 100%);
+  border: 1px solid #dceeea;
+  border-radius: 22px;
+  padding: 2rem;
+  margin: 0.5rem 0 2rem 0;
 }
 
-/* Control Project Seagrass logo size in top navbar */
-.navbar-brand img {
-  max-height: 80px;
-  width: auto;
-}
-
-/* Prevent navbar from becoming too tall */
-.navbar {
-  min-height: 64px;
-}
-
-.navbar-title {
-  font-weight: 800;
+/* Homepage title, reduced */
+.hero h1 {
   color: var(--ps-dark-teal);
-  line-height: 1.12;
-  white-space: normal;
+  font-weight: 850;
+  font-size: clamp(1.9rem, 3vw, 2.6rem);
+  line-height: 1.08;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
 }
 
-.navbar-title::after {
-  content: "A practical learning guide for monitoring seagrass conservation across people, nature and place.";
-  display: block;
-  font-size: .82rem;
+/* Homepage subtitle */
+.hero-subtitle {
+  font-size: clamp(1.05rem, 1.5vw, 1.25rem);
+  color: #345c5a;
+  max-width: 850px;
+  margin-bottom: 1.25rem;
   font-weight: 500;
-  color: #42615f;
-  margin-top: .1rem;
 }
 
-.navbar .navbar-nav {
-  margin-top: .5rem;
-  padding-top: .45rem;
-  border-top: 1px solid #e7f0ee;
-  width: 100%;
-  flex-basis: 100%;
+/* ================================
+   CONTENT BLOCKS
+   ================================ */
+
+.key-rule {
+  border-left: 8px solid var(--ps-green);
+  background: #f8fcf3;
+  padding: 1.25rem 1.5rem;
+  border-radius: 16px;
+  font-size: 1.08rem;
+  margin: 1.5rem 0;
 }
 
+.domain-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.domain-card {
+  border: 1px solid #dceeea;
+  border-radius: 18px;
+  padding: 1.15rem;
+  background: #fff;
+  box-shadow: 0 6px 20px rgba(0, 76, 74, .06);
+}
+
+.domain-card h3 {
+  margin-top: 0;
+  color: var(--ps-teal);
+}
+
+.figure-placeholder {
+  border: 2px dashed #9fcfca;
+  border-radius: 18px;
+  background: #f8fcfb;
+  padding: 1rem;
+}
+
+.caption {
+  color: #4e6866;
+  font-size: .95rem;
+  margin-top: .65rem;
+}
+
+.callout.callout-style-default {
+  border-radius: 16px;
+}
+
+.callout-note {
+  border-left-color: var(--ps-teal) !important;
+}
+
+.callout-tip {
+  border-left-color: var(--ps-green) !important;
+}
+
+table {
+  font-size: .95rem;
+}
+
+thead {
+  background: #eef8f7;
+}
+
+.small-note {
+  font-size: .93rem;
+  color: #526f6d;
+}
 .navbar .nav-link {
   font-weight: 650;
   color: var(--ps-dark-teal);
